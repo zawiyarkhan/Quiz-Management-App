@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "249095854192",
+    "project_id": "quixlet",
+    "storage_bucket": "quixlet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249095854192:android:71b7348301b68a6d1dfcb5",
+        "android_client_info": {
+          "package_name": "com.example.quiz_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249095854192-bcqis8vjkiip552imqdejihnpl1u94sj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYWc5tlYxxxEhQDhtzkkolMSe4o-aTs70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249095854192-bcqis8vjkiip552imqdejihnpl1u94sj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
